@@ -58,10 +58,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**SPAM BY ! ~ ZERO | CraftMCD#0036      السبام مصنوع من قبل ! ~ ZERO | CraftMCD#0036
-spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spamspam spamspam spamspam spamspam spamspam spamspam spamspam spamspam spamspam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spamspam spam spam spam
-تم الصنع من قبل 
- ! ~ ZERO | CraftMCD#0036 **[ " ${x} " ]`)
+        message.channel.send(`**https://discord.gg/qxrupv3 @everyone **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -75,10 +72,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**SPAM BY ! ~ ZERO | CraftMCD#0036      السبام مصنوع من قبل ! ~ ZERO | CraftMCD#0036
-spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spamspam spamspam spamspam spamspam spamspam spamspam spamspam spamspam spamspam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spamspam spam spam spam
-تم الصنع من قبل 
- ! ~ ZERO | CraftMCD#0036 **[ " ${x} " ]`)
+        message.channel.send(`**https://discord.gg/qxrupv3 @everyone **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
